@@ -1,5 +1,5 @@
 <html>
-	<body>
+	<body style="color:blue;">
 	Welcome to the test project
 	adding this
 	<body/>
